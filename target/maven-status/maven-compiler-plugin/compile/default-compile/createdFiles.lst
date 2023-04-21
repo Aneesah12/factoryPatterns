@@ -1,0 +1,7 @@
+factoryPatternNetflix/MovieDetails.class
+factoryPatternNetflix/ActionMovies.class
+factoryPatternNetflix/ScienceFictionMovies.class
+factoryPatternNetflix/NetflixMovies.class
+factoryPatternNetflix/RomComMovies.class
+factoryPatternNetflix/TestFactory.class
+factoryPatternNetflix/MovieFactory.class
